@@ -32,7 +32,7 @@
 
   
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoMazzaroli&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMazzaroli&layout=compact&theme=highcontrast)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoMazzaroli&show_icons=true&theme=ayu-mirage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMazzaroli&layout=compact&theme=ayu-mirage)
 
 </div>
