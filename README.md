@@ -6,7 +6,7 @@
 
 Atualmente estou buscando oportunidades para atuar como desenvolvedor Back-end.</p>
 
-estou aprendendo no momento **NodeJS, Typescript, Banco de dados e ferramentas relacionadas ao desenvolvimento**
+estou aprendendo no momento **Java, NodeJS, Typescript, Banco de dados e ferramentas relacionadas ao desenvolvimento**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMazzaroli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-mazzaroli-13b8a72a2/)](https://www.linkedin.com/in/thiago-mazzaroli-13b8a72a2/)
